@@ -1,6 +1,6 @@
 # Incredibox Mustard
 
-Incredibox Mustard is a free online music game inspired by the popular Incredibox series, offering a fresh and flavorful take on beatboxing and musical creation.  Mix and match unique sounds, create your own melodies, and share your musical masterpieces with the world. Play Incredibox Mustard Now: [https://spunky.games/incredibox-mustard](https://spunky.games/incredibox-mustard)
+Incredibox Mustard is a free online music game inspired by the popular Incredibox series, offering a fresh and flavorful take on beatboxing and musical creation.  Mix and match unique sounds, create your own melodies, and share your musical masterpieces with the world. Play Incredibox Mustard Now: [incredibox-mustard](https://spunky.games/incredibox-mustard)
 
 ---
 
@@ -21,7 +21,7 @@ Incredibox Mustard is a browser-based music game developed by Spunky Games that 
 
 ## How to Play Incredibox Mustard
 
-1. **Access the Game:** Go to [https://spunky.games/incredibox-mustard](https://spunky.games/incredibox-mustard) to launch the game in your browser.
+1. **Access the Game:** Go to [incredibox-mustard](https://spunky.games/incredibox-mustard) to launch the game in your browser.
 2. **Choose Your Performers:** Drag and drop the animated characters – each representing a different sound or vocalization – onto the stage.
 3. **Create Your Mix:** Experiment with combining different characters and sounds to create your own unique musical arrangements.
 4. **Discover Bonuses:** As you create successful combinations, you may unlock bonus sounds and animations.
@@ -67,4 +67,4 @@ Incredibox Mustard is a browser-based music game developed by Spunky Games that 
 
 ---
 
-Spice up your music making! Play Incredibox Mustard now: [https://spunky.games/incredibox-mustard](https://spunky.games/incredibox-mustard)
+Spice up your music making! Play Incredibox Mustard now: [incredibox-mustard](https://spunky.games/incredibox-mustard)
