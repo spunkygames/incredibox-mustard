@@ -21,7 +21,7 @@ Incredibox Mustard is a browser-based music game developed by Spunky Games that 
 
 ## How to Play Incredibox Mustard
 
-1. **Access the Game:** Go to [incredibox-mustard](https://spunky.games/incredibox-mustard) to launch the game in your browser.
+1. **Access the Game:** Go to incredibox-mustard to launch the game in your browser.
 2. **Choose Your Performers:** Drag and drop the animated characters – each representing a different sound or vocalization – onto the stage.
 3. **Create Your Mix:** Experiment with combining different characters and sounds to create your own unique musical arrangements.
 4. **Discover Bonuses:** As you create successful combinations, you may unlock bonus sounds and animations.
@@ -59,7 +59,7 @@ Incredibox Mustard is a browser-based music game developed by Spunky Games that 
 5. **Can I save my mixes?** Saving options may vary based on browser and platform capabilities.  Check within the game for specifics.
 6. **Are there different levels or stages?**  Progression in Incredibox Mustard might involve unlocking bonus content. Check the game itself for details.
 7. **What inspired Incredibox Mustard?**  It's inspired by the Incredibox series of music games. Fans of the original Incredibox and games like [Sprunki Retake](https://sprunkiretake.org/) might enjoy this game.
-8. **Where can I find more information about Spunky Games?**  Visit the official Spunky Games website: [https://spunky.games](https://spunky.games).  Also, consider checking out [ESprunki Game](https://esprunki.com/) by Spunky Games.
+8. **Where can I find more information about Spunky Games?**  Visit the official Spunky Games website: [spunky.games](https://spunky.games).  Also, consider checking out [ESprunki Game](https://esprunki.com/) by Spunky Games.
 9. **Is there a mobile app for Incredibox Mustard?**  It's primarily a browser-based game, optimized for play in a web browser on various devices.
 10. **How can I contact the developers?** Contact information might be available on the Spunky Games website or related resources.
 
@@ -67,4 +67,4 @@ Incredibox Mustard is a browser-based music game developed by Spunky Games that 
 
 ---
 
-Spice up your music making! Play Incredibox Mustard now: [incredibox-mustard](https://spunky.games/incredibox-mustard)
+Spice up your music making! Play Incredibox Mustard.
